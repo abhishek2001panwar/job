@@ -24,7 +24,7 @@ const CatTable = ({ catData }) => {
                 <img
                   src={url}
                   alt="Cat"
-                  className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-lg"
+                  className="w-20 h-16 sm:w-32 sm:h-32 object-cover rounded-lg"
                 />
               </td>
               <td className="px-4 py-3 sm:px-6 text-sm sm:text-base">
